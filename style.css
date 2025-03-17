@@ -1,0 +1,31 @@
+.over{
+    display: flex;
+    margin:10px;
+    padding: 10px;
+    background-color: antiquewhite;
+    
+
+}  
+.about-us{
+    padding: 30px;
+    list-style: none;
+}  
+.style-li {
+    list-style: none;
+}
+.about-li{
+    list-style: none;
+}
+.socials{
+    
+    padding: 30px;
+    justify-content: right;
+
+
+}#label{
+    background-color:antiquewhite;
+    
+    border-style: dotted ;
+    border-color: beige;
+    border-width: thin;
+}
